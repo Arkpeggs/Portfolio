@@ -119,3 +119,12 @@ img{
   border: 3px solid black;
 }
 
+h5{
+  text-align: center;
+}
+
+#phone {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: black;
+  font-size: 15px
+}
