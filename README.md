@@ -1,6 +1,5 @@
-# Homework2
-
-This is my up to date Portfolio. Contact links and resume have been added as well as some minor aesthetic adjustments. This uses HTML, CSS, and a functional contact form via formspree.
+# Portfolio
+This is my up to date Portfolio. Contact links and resume have been added as well as some minor aesthetic adjustments. This project uses HTML, CSS, and a functional contact form via formspree. Several other projects are included in this portfolio. 
 
 https://arkpeggs.github.io/Portfolio/index.html - link to deployed project
 
