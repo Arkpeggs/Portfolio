@@ -6,8 +6,5 @@ https://arkpeggs.github.io/Portfolio/index.html - link to deployed project
 
 https://github.com/Arkpeggs/Portfolio.git - link to repo
 
-![Index](https://github.com/Arkpeggs/Portfolio/blob/master/about/Portfolio.png?raw=true)
-
 ![Portfolio](https://github.com/Arkpeggs/Portfolio/blob/master/Assets/Portfolio.png?raw=true)
 
-![Contact Me](https://github.com/Arkpeggs/Portfolio/blob/master/Assets/contact.png?raw=true)
