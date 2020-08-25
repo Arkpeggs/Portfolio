@@ -20,21 +20,23 @@ main {
 
 .block-header {
 
-  color: pink;
+  color: rgb(255, 0, 128);
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: bold;
 }
 
 #logo {
   font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 24px;
+  font-size: 30px;
   font-weight: bold;
   color: white;
-  background: pink;
+  -webkit-text-stroke: .5px hotpink; 
+  background-color: grey;
+  border: 2px solid hotpink;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-  color: pink;
+  color: hotpink;
 }
 
 .connect-header {
@@ -43,11 +45,12 @@ main {
 .navbar {
   background: white;
   border: none;
+  font-size: 25px;
 }
 
 @media only screen and (max-width: 767px) {
   .navbar-header {
-   background-color: pink;
+   background-color: hotpink;
   }
 }
 
@@ -78,13 +81,13 @@ main {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-size: 32px;
   font-weight: bold;
-  color: pink;
+  color: hotpink;
 }
 
   .two-toned-footer-color {
   height: 6px;
   padding-top: 3px;
-  background-color: pink;
+  background-color: hotpink;
 }
 
 #about-image {
@@ -105,10 +108,14 @@ main {
 
 .submit-btn {
   padding: 15px 30px;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: lighter;
   color: white;
-  background-color: pink;
-  border: 0;
+  background-color:  hotpink;
+  border: 2px solid grey;
+}
+
+img{
+  border: 3px solid black;
 }
 
