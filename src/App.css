@@ -1,0 +1,25 @@
+
+.navbar-expand-lg {
+  font-size: 30px;
+ 
+}
+
+li {
+  margin: 10px;
+
+}
+
+#name {
+  font-size: 25px;
+}
+
+.container {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: rgb(207, 207, 207);
+}
+
+
+.aboutApp, .portfolioApp, .contactApp, html {
+  background-color: rgb(207, 207, 207);
+}
