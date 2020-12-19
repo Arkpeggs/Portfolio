@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.2e3f1d4b.chunk.css",
+    "main.js": "/Portfolio/static/js/main.8f289e1c.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.8f289e1c.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.b16c2259.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.b16c2259.js.map",
+    "static/css/2.de424728.chunk.css": "/Portfolio/static/css/2.de424728.chunk.css",
+    "static/js/2.51e63379.chunk.js": "/Portfolio/static/js/2.51e63379.chunk.js",
+    "static/js/2.51e63379.chunk.js.map": "/Portfolio/static/js/2.51e63379.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.95787ef714881c46aca87d97c145d9b9.js": "/Portfolio/precache-manifest.95787ef714881c46aca87d97c145d9b9.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/Portfolio/static/css/2.de424728.chunk.css.map",
+    "static/css/main.2e3f1d4b.chunk.css.map": "/Portfolio/static/css/main.2e3f1d4b.chunk.css.map",
+    "static/js/2.51e63379.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.51e63379.chunk.js.LICENSE.txt",
+    "static/media/Note-taker.PNG": "/Portfolio/static/media/Note-taker.9d30bd37.PNG",
+    "static/media/WWCLOGO.PNG": "/Portfolio/static/media/WWCLOGO.0469a6d8.PNG",
+    "static/media/fitness-tracker.PNG": "/Portfolio/static/media/fitness-tracker.420171a2.PNG",
+    "static/media/flowers.jpg": "/Portfolio/static/media/flowers.e42f6257.jpg",
+    "static/media/ticket-tracker-logo.PNG": "/Portfolio/static/media/ticket-tracker-logo.e27f2713.PNG",
+    "static/media/weather.PNG": "/Portfolio/static/media/weather.b4a84f0e.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b16c2259.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.51e63379.chunk.js",
+    "static/css/main.2e3f1d4b.chunk.css",
+    "static/js/main.8f289e1c.chunk.js"
+  ]
+}
